@@ -21,6 +21,7 @@ Person with heart disease is more likely to be:
 -	mean value of Max heart rate of person with heart disease is 127.65.
 
 [Presentation](https://github.com/pascale25/Heart-Disease-Story-Telling/blob/c55f1b481055a5cbed2423afc5791acfd69eed2e/Story_Telling_Heart_Disease/Storry%20Telling%20Heart%20Disease_two.pdf)
+
 [Report](https://github.com/pascale25/Heart-Disease-Story-Telling/blob/c55f1b481055a5cbed2423afc5791acfd69eed2e/Story_Telling_Heart_Disease/Storry%20Telling%20Heart%20Disease_two.pdf)
 
 
@@ -47,13 +48,20 @@ Avocado price and total volume were forecasted with SARIMAX, ARIMA algorithms.  
 -	The average of the difference between this value (pred – actual) MAE is 0.063. 
 
 [Data Wrangling](https://github.com/pascale25/Forecasting_Avocado_price_volume/blob/182cf5efd63b4c2c2ba64571a7e26e611cd0abd4/Capstone_project_Forecasting_Avocado_price_volume/Data_wramgling_avocado.ipynb)
+
 [Exploratory Data analysis one](https://github.com/pascale25/Forecasting_Avocado_price_volume/blob/182cf5efd63b4c2c2ba64571a7e26e611cd0abd4/Capstone_project_Forecasting_Avocado_price_volume/Data_wramgling_avocado_EDA_Part_one_all_regions.ipynb)
+
 [Exploratory Data analysis two](https://github.com/pascale25/Forecasting_Avocado_price_volume/blob/182cf5efd63b4c2c2ba64571a7e26e611cd0abd4/Capstone_project_Forecasting_Avocado_price_volume/Data_wramgling_avocado_EDA_Part_Two_New_york.ipynb)
+
 [Modeling one](https://github.com/pascale25/Forecasting_Avocado_price_volume/blob/182cf5efd63b4c2c2ba64571a7e26e611cd0abd4/Capstone_project_Forecasting_Avocado_price_volume/Forcasting_Avocado_NY_con_price_V.ipynb)
 [Modeling two](https://github.com/pascale25/Forecasting_Avocado_price_volume/blob/182cf5efd63b4c2c2ba64571a7e26e611cd0abd4/Capstone_project_Forecasting_Avocado_price_volume/Forcasting_Avocado_NY_con_volume_V.ipynb)
+
 [Modeling three](https://github.com/pascale25/Forecasting_Avocado_price_volume/blob/182cf5efd63b4c2c2ba64571a7e26e611cd0abd4/Capstone_project_Forecasting_Avocado_price_volume/Forcasting_Avocado_NY_org_price_V.ipynb)
+
 [Modeling four](https://github.com/pascale25/Forecasting_Avocado_price_volume/blob/182cf5efd63b4c2c2ba64571a7e26e611cd0abd4/Capstone_project_Forecasting_Avocado_price_volume/Forcasting_Avocado_NY_org_volume_V.ipynb)
+
 [Report](https://github.com/pascale25/Forecasting_Avocado_price_volume/blob/182cf5efd63b4c2c2ba64571a7e26e611cd0abd4/Avocado_report_final.pdf)
+
 [Presentation](https://github.com/pascale25/Forecasting_Avocado_price_volume/blob/182cf5efd63b4c2c2ba64571a7e26e611cd0abd4/Avocado%20Project%20Presentation%20%5BMireille%20P.%20Feudjio%5D.pdf)
 
  
@@ -80,10 +88,14 @@ Avocado price and total volume were forecasted with SARIMAX, ARIMA algorithms.  
 -	the chosen one is Gradient boost with MAE of 0.18 on train set and 1.15 on the test set.
  
 [Data Wrangling](https://github.com/pascale25/Life_expentancy_project/blob/11508a06c553394122de1c940ed512444be98a3e/Life_expectancy_final_report_2022/Life_expectancy_final_report/Capstone_two_Life_expectancy-Data_wrangling.ipynb)
+
 [Exploratory Data analysis](https://github.com/pascale25/Life_expentancy_project/blob/11508a06c553394122de1c940ed512444be98a3e/Life_expectancy_final_report_2022/Life_expectancy_final_report/Exploratory_Data_Analysis_life_expectancy.ipynb)
+
 [Statistic](https://github.com/pascale25/Life_expentancy_project/blob/11508a06c553394122de1c940ed512444be98a3e/Inferential_statistic_life_expectancy.ipynb)
 [Modeling](https://github.com/pascale25/Life_expentancy_project/blob/11508a06c553394122de1c940ed512444be98a3e/Life_expectancy_final_report_2022/Life_expectancy_final_report/Modeling_V3_life_expectancy.ipynb)
+
 [Report](https://github.com/pascale25/Life_expentancy_project/blob/11508a06c553394122de1c940ed512444be98a3e/Life_expectancy_final_report_2022/Life_expectancy_final_report/reports/LIFE%20EXPECTANCY_F.pdf)
+
 [Presentation](https://github.com/pascale25/Life_expentancy_project/blob/11508a06c553394122de1c940ed512444be98a3e/Life_expectancy_final_report_2022/Life_expectancy_final_report/reports/Life_expectancy_project%5BMireille%20P.%20%20Feudjio%5D.pdf)
 
  
@@ -96,6 +108,7 @@ This project aims at exploring different concepts of NLP with a movie_ tv_show d
 
  
 The notebook investigated concepts like: removing punctuation, tokenize, lemmatize, stemming, stop words,  Create dictionary of the most frequent words and Word Cloud, Gensim and spacy libraries, apply Recommender system, use of Bag of words (unigram, bigram, …), exploring different models (random forest, gradient boost, Naïve Bayes) with vectorized data made with count vectorizer, TFIDF, analyzing similarity between reviews description  and Classification with kmean clustering with the use of Elbow method. 
+
 [notebook](https://github.com/pascale25/NLP_PlayGround/blob/c6d59dbfdb09ce6495edb347f05beb16d2d1e20f/NLP_PlayGround_project/Netflix_NLP_02.ipynb)
  
 ### 5. Research (statistic, GIS)
