@@ -1,4 +1,4 @@
-# Mireille_feudjio_Portofolio 
+# Mireille_feudjio_Portfolio 
 ## Data Scientist | Machine Learning | Managing Data for Better Life
 
 ### 1. Classification 
