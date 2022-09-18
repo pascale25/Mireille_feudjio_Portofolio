@@ -109,7 +109,7 @@ This project aims at exploring different concepts of NLP with a movie_ tv_show d
  
 The notebook investigated concepts like: removing punctuation, tokenize, lemmatize, stemming, stop words,  Create dictionary of the most frequent words and Word Cloud, Gensim and spacy libraries, apply Recommender system, use of Bag of words (unigram, bigram, …), exploring different models (random forest, gradient boost, Naïve Bayes) with vectorized data made with count vectorizer, TFIDF, analyzing similarity between reviews description  and Classification with kmean clustering with the use of Elbow method. 
 
-[notebook](https://github.com/pascale25/NLP_PlayGround/blob/c6d59dbfdb09ce6495edb347f05beb16d2d1e20f/NLP_PlayGround_project/Netflix_NLP_02.ipynb)
+[notebook](https://github.com/pascale25/NLP_PlayGround/blob/master/NLP_PlayGround_project/Netflix_NLP_02.ipynb)
  
 ### 5. Research (statistic, GIS)
 #### [Drivers and levers options of shifting cultivation project ](http://pubs.sciepub.com/wjar/5/4/4/index.html)
