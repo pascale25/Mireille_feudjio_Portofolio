@@ -27,7 +27,7 @@ Person with heart disease is more likely to be:
 
 ###  2. Time Serie analysis 
 
-### [Avocado: what is the expected price and consumption of avocado in 2022? ]( https://github.com/pascale25/Challenges/blob/7839fb3e4c4f409a08443d009c37da8e77d1b31b/Ultimate_challenge/Ultimate_challenge.ipynb)
+### [Avocado: what is the expected price and consumption of avocado in 2022? ]( https://github.com/pascale25/Forecasting_Avocado_price_volume/blob/182cf5efd63b4c2c2ba64571a7e26e611cd0abd4/Avocado%20Project%20Presentation%20%5BMireille%20P.%20Feudjio%5D.pdf)
 Avocado price and total volume were forecasted with SARIMAX, ARIMA algorithms.  The mean absolute error (MAE) metric was used to evaluate and select models. MAE was 0.063 for the best model. 
              		
 ![image](https://user-images.githubusercontent.com/90922607/185219302-0cf0bd56-32c6-4ea7-ac16-8aab96d45d77.png)
